@@ -23,5 +23,5 @@ A full data analysis of Swiss tourism trends using real data. Includes visual st
 
 ## Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/vijaivarmadataanalyst)
+- [LinkedIn](https://www.linkedin.com/in/vijaivarmadataanalyst)
 - vijaivarmabusy@gmail.com
