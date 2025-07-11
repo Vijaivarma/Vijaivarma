@@ -1,27 +1,30 @@
-# Hi, I'm Vijai Varma
+# Hello, I'm Vijai Varma
 
-Aspiring Data Analyst | Excel • Python • Power BI • SQL  
-🇨🇭 Focus: Switzerland | Tamil Nadu  
+ Aspiring Data Analyst | Excel | SQL | Power BI | Python  
+ From Tamil Nadu, India — Focused on Swiss Market  
 
----
-
-## Projects
-
-### 🇨🇭 [Swiss Tourism Trend Analysis (2019–2023)](https://github.com/Vijaivarma/Swiss_Tourism_Trend_Analysis)
-A full data analysis of Swiss tourism trends using real data. Includes visual storytelling, pandas-based insights, and recruiter-focused design.
+I'm a 2024 Computer Science graduate passionate about extracting actionable insights from data.  
+I’ve built real-world projects such as the **Swiss Tourism Trend Analysis**
 
 ---
 
-## Skills
-
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL for data queries
-- Power BI dashboards
-- Excel-based reporting
+### Tools & Technologies
+- **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Tools**: Excel, Power BI, Jupyter Notebook, GitHub  
+- **Skills**: Data Cleaning, Analysis, Dashboarding, Visualization
 
 ---
 
-## Let's Connect
+### Projects
+- 🔹 [Swiss Tourism Trend Analysis](https://github.com/Vijaivarma/Swiss_Tourism_Trend_Analysis)  (Python)
 
-- [LinkedIn](https://www.linkedin.com/in/vijaivarmadataanalyst)
-- vijaivarmabusy@gmail.com
+---
+
+### Goals
+- Build data projects aligned with Swiss industries (Tourism, Sustainability, Finance)  
+- Earn PL-300 certification  
+- Secure a data analyst role in Switzerland 🇨🇭
+
+---
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/vijaivarmadataanalyst/)
