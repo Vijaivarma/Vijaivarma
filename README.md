@@ -1,10 +1,10 @@
 # Hello, I'm Vijai Varma
 
-**Aspiring Data & Business Analyst**
-Excel • SQL • Python • Power BI
-Tamil Nadu, India
+🎯 Aspiring Data & Business Analyst
+📊 Excel • SQL • Python • Power BI
+📍 Tamil Nadu, India
 
-I’m a **Computer Science graduate (2024)** passionate about transforming raw data into meaningful insights.
+I’m a **Computer Science graduate** passionate about transforming raw data into meaningful insights.
 I enjoy analyzing datasets, uncovering trends, and building dashboards that help organizations make **data-driven decisions**.
 
 I have built practical data analytics projects using **Python, Excel, SQL, and Power BI**, focusing on real-world datasets and business insights.
