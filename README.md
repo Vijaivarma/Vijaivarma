@@ -98,4 +98,6 @@ GitHub
 https://github.com/Vijaivarma
 
 Email
-[vijaivarmabusy@gmail.com](mailto:vijaivarmabusy@gmail.com)
+[vijaivarma.dataanalyst@gmail.com](mailto:vijaivarma.dataanalyst@gmail.com)
+
+Portfolio https://vijaivarma.github.io/Portfolio
